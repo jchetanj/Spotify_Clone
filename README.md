@@ -1,10 +1,5 @@
 
 
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-
   ## 🏁 Technology Stack
 
 * [React](https://reactjs.org/)
@@ -19,7 +14,7 @@
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
-https://github.com/Ayush7614/Spotify-Clone.git
+https://github.com/jchetanj/Spotify_Clone.git
 ```
 
 3. Install the Node Modules: 
